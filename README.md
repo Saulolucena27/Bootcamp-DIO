@@ -1,2 +1,2 @@
 # Bootcamp-DIO
-Repositorio para armazenar todo conteudo do Bootcamp da Dio-Avanade
+Repositório para armazenar todo o conteúdo do Bootcamp da DIO-Avanade.
